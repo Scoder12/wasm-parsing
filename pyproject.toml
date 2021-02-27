@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "wasm-parsing"
+name = "wasm_parser"
 version = "0.1.0"
 description = "WASM parsing experiments"
 authors = ["Scoder12 <34356756+Scoder12@users.noreply.github.com>"]
