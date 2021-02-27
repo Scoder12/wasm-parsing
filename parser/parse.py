@@ -3,6 +3,8 @@ from collections import deque
 
 
 class ParseError(ValueError):
+    """An exception that occurred while parsing the binary."""
+
     pass
 
 
